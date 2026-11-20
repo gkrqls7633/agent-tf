@@ -1,0 +1,11 @@
+{
+  "name": "agent-tf",
+  "version": "0.1.0",
+  "description": "관리자 한 명과 전문 에이전트 팀(기획, 백엔드, 프런트, 리뷰, QA, devops). 팀장 skill 이 일을 나누고 관리자 확인 세 곳에서 멈춥니다.",
+  "author": {
+    "name": "학빈 김"
+  },
+  "repository": "https://github.com/gkrqls7633/agent-tf",
+  "license": "UNLICENSED",
+  "keywords": ["team", "orchestration", "agents", "workflow"]
+}

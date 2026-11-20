@@ -1,0 +1,14 @@
+{
+  "name": "agent-tf",
+  "owner": {
+    "name": "학빈 김"
+  },
+  "plugins": [
+    {
+      "name": "agent-tf",
+      "source": "./",
+      "description": "관리자 한 명과 전문 에이전트 팀(기획, 백엔드, 프런트, 리뷰, QA, devops).",
+      "version": "0.1.0"
+    }
+  ]
+}
